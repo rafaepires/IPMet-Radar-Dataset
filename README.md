@@ -63,4 +63,5 @@ This dataset is made available under the terms of the [Creative Commons Attribut
 **Contact**  
 For questions or collaborations, contact:  
 [r.pires@unesp.br](mailto:r.pires@unesp.br)  
+[daniel.fs.santos@unesp.br](mailto:daniel.fs.santos@unesp.br) 
 [joao.papa@unesp.br](mailto:joao.papa@unesp.br)
