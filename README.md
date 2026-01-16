@@ -26,12 +26,9 @@ IPMet-Dataset/
 │   ├── img_0001.png
 │   ├── img_0002.png
 │   └── ...
-├── metadata.csv
 ├── README.md
 └── LICENSE
 ```
-
-The `metadata.csv` file contains additional information for each image, including acquisition location, capture timestamp, and processing date.
 
 ## 🧪 Dataset Source
 
