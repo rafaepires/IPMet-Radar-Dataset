@@ -51,8 +51,7 @@ This dataset is suitable for:
 
 If you use this dataset in your work, please cite the following:
 
-> R. G. Pires et al., "LINDE: A Lightweight Neural Network for Remote Sensing Image Denoising," *submitted to IEEE GRSL*, 2025.  
-> [GitHub Repository](https://github.com/YOUR_USERNAME/IPMet-Radar-Dataset)
+R. G. Pires, D. F. S. Santos, R. V. Calheiros, J. P. Papa, I. H. Lee, S. Bakshi, and K. Muhammad, “A Convolutional Recurrent Mixer Network For Radar Meteorological Image Super-Resolution,” in Proceedings of the 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, p. 1.
 
 ## 📜 License
 
