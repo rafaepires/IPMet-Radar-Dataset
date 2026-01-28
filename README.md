@@ -2,8 +2,9 @@
 
 This repository provides access to a subset of the **IPMet Radar Image Dataset**, used in the paper:
 
-**LINDE: A Lightweight Neural Network for Remote Sensing Image Denoising**  
-_Rafael G. Pires, Daniel F. Silva Santos, Dênis S. Moretto, Yasmin R. Sobrinho, Pedro Henrique Crespan Ribeiro, Roberto V. Calheiros, Khan Muhammad, João Paulo Papa_  
+***A Convolutional Recurrent Mixer Network for Radar Meteorological Image SuperResolution.***
+  
+_Rafael G. Pires, Daniel F. Silva Santos, Roberto V. Calheiros, Khan Muhammad, João Paulo Papa_  
 
 
 ## 📦 Description
