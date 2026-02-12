@@ -44,7 +44,8 @@ This dataset is suitable for:
 
 If you use this dataset in your work, please cite the following paper:
 
-R. G. Pires, D. F. S. Santos, R. V. Calheiros, J. P. Papa, I. H. Lee, S. Bakshi, and K. Muhammad, “A Convolutional Recurrent Mixer Network For Radar Meteorological Image Super-Resolution,” in Proceedings of the 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, p. 1-5 (2025). [bibtex] (www.uol.com.br "UOL")
+R. G. Pires, D. F. S. Santos, R. V. Calheiros, J. P. Papa, I. H. Lee, S. Bakshi, and K. Muhammad, “A Convolutional Recurrent Mixer Network For Radar Meteorological Image Super-Resolution,” in Proceedings of the 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, p. 1-5 (2025). [[bibtex](http://www.uol.com.br "UOL")]
+
 
 ## 📜 License
 
