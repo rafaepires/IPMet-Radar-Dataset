@@ -19,12 +19,47 @@ The **IPMet Dataset** is a real-world collection of radar images acquired by the
 ```
 IPMet-Dataset/
 ├── images/
-│   ├── img_0001.png
-│   ├── img_0002.png
+│   ├── Bauru,-20231231-2101_20240206-20370000.png
+│   ├── Bauru,-20231231-2108_20240206-20370002.png
 │   └── ...
 ├── README.md
 └── LICENSE
 ```
+## 🕒 Filename Date Pattern
+
+This pattern contains two timestamps:
+
+- **First timestamp (`YYYYMMDD-HHMM`)**  
+  Represents the radar acquisition date and time.  
+  Format:
+  - `YYYY` → year  
+  - `MM` → month  
+  - `DD` → day  
+  - `HH` → hour  
+  - `MM` → minute  
+
+  Example: `20231231-2101` → December 31, 2023 at 21:01.
+
+- **Second timestamp (`YYYYMMDD-HHMMSSFF`)**  
+  Represents the processing or export timestamp of the image.  
+  Format:
+  - `YYYY` → year  
+  - `MM` → month  
+  - `DD` → day  
+  - `HH` → hour  
+  - `MM` → minute  
+  - `SS` → seconds  
+  - `FF` → fractional seconds (when available)  
+
+  Example: `20240206-20370000` → February 6, 2024 at 20:37:00.
+
+> Timestamps are stored in compact numeric format to ensure chronological ordering and compatibility with automated processing pipelines.
+
+This naming convention allows:
+- Automatic chronological sorting  
+- Easy parsing for dataset indexing  
+- Consistent metadata extraction for machine learning workflows  
+
 
 ## 🧪 Dataset Source
 
