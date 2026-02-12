@@ -1,0 +1,12 @@
+@INPROCEEDINGS{10887893,
+  author={Pires, Rafael Gonçalves and Santos, Daniel F. S and Calheiros, Roberto V. and Papa, João Paulo and Lee, Ik Hyun and Bakshi, Sambit and Muhammad, Khan},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={A Convolutional Recurrent Mixer Network For Radar Meteorological Image Super-Resolution}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Image quality;Meteorological radar;Convolution;Computational modeling;Superresolution;Real-time systems;Complexity theory;Speech processing;Mixers;Signal resolution;Super Resolution;Deep Learning;Recurrent Mixer Network;Convolutional Neural Networks;Meteorology},
+  doi={10.1109/ICASSP49660.2025.10887893}
+}
+
